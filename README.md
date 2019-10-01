@@ -6,4 +6,6 @@ Grouop work with: Shiyu Chen, Jacky Chen
 ![](teachablemachine.png)
 
 Demo bellow:
-![](demo.gif){width="400px"}
+
+
+<img src="demo.gif" width="40%">
