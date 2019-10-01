@@ -4,3 +4,6 @@ Using Teachable Machine trained model with ml5 and Arduino detect a Cup and togg
 Grouop work with: Shiyu Chen, Jacky Chen
 
 ![](teachablemachine.png)
+
+Demo bellow:
+![](demo.gif)
